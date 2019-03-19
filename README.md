@@ -24,8 +24,8 @@ Carlos "Pazuzu" Henrique - carlos6555@gmail.com
 - Segurança da Informação
 
 # Portfólio
-[Aplicativo Desktop para treinamento de Atenção de Crianças Autistas](https://github.com/carlospazuzu/Treinamento-Autismo)
-[Aplicativo Desktop simulador de teclado musical](https://github.com/carlospazuzu/MTHEORY)
+[Aplicativo Desktop para treinamento de Atenção de Crianças Autistas](https://github.com/carlospazuzu/Treinamento-Autismo) <br />
+[Aplicativo Desktop simulador de teclado musical](https://github.com/carlospazuzu/MTHEORY) <br />
 [Composição de áudio para o Jogo Digital The Last NightMary ](https://store.steampowered.com/app/407300/The_Last_NightMary__A_Lenda_do_Cabea_de_Cuia/)
 
 
